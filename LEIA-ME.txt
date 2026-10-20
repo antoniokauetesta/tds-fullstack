@@ -1,0 +1,12 @@
+Sistema de Gerenciamento de Oficina - Desafio Desenvolvimento de Sistemas
+React (Vite) + Node.js/Express + MySQL + .env
+
+Renomeie a pasta e o .zip para o SEU NOME COMPLETO antes de enviar.
+
+documentacao.pdf  -> documentação de software
+diagrama_er.png   -> diagrama entidade-relacionamento
+treino_db.sql     -> criação e população do banco (MySQL)
+sistema/          -> código-fonte (backend/ e frontend/)
+
+Passo a passo completo: sistema/README.md
+Login de teste: admin@treino.com / Admin@123
